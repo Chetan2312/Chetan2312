@@ -5,13 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Robotics+Engineer;Edge-AI+%26+Computer+Vision+Builder;Training+ML+Models%2C+Shipping+Them+to+Hardware;ROS2+%26+Embedded+Systems+Specialist;Building+React+UIs+for+Robots;Based+in+Pune%2C+India" alt="Typing SVG" />
   </a>
 </div>
-<h1 align="center">Hi there, I'm Chetan! 👋</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Robotics+Engineer;Edge-AI+%26+Computer+Vision+Builder;Training+ML+Models%2C+Shipping+Them+to+Hardware;ROS2+%26+Embedded+Systems+Specialist;Building+React+UIs+for+Robots;Based+in+Pune%2C+India" alt="Typing SVG" />
-  </a>
-</div>
 
 <p align="center">
   I build machines that see, think, and move. My work spans the full stack of intelligent hardware — from PCB-level electronics and motor control, up through <b>training custom ML models</b> and deploying them on edge accelerators, to the React UIs humans use to command it all.
