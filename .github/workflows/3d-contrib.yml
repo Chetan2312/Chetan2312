@@ -1,0 +1,29 @@
+name: Generate 3D Contribution City
+
+on:
+  schedule:
+    - cron: "10 0 * * *"   # daily, offset from Pac-Man run
+  workflow_dispatch:        # manual run
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Chetan2312
+
+      - name: Commit & push generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib/
+          git commit -m "chore: update 3D contribution graphs" || echo "no changes"
+          git push
