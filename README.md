@@ -134,12 +134,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan2312&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Activity Graph" width="96%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetan2312&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
