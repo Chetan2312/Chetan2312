@@ -147,7 +147,7 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/chetan-shinde-345853113/">
+  <a href="https://www.linkedin.com/in/chetan-shinde-345853113/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:chetan@aashman.in">
