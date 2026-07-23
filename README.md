@@ -115,15 +115,17 @@
 
 ### 📊 GitHub Analytics
 
+<!-- If cards fail to load: public github-readme-stats instance is rate-limited. Self-host (see instructions) and replace "github-readme-stats.vercel.app" with your own Vercel domain in the 2 URLs below. -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetan2312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Chetan's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan2312&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Chetan's GitHub stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Chetan2312&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan2312&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
 
 <br>
@@ -143,7 +145,11 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chetan2312/Chetan2312/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chetan2312/Chetan2312/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chetan2312/Chetan2312/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Chetan2312/Chetan2312/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
@@ -151,10 +157,10 @@
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/chetan-shinde-345853113/">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:chetan@aashman.in / chetaan.shinde@gmail.com">
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
