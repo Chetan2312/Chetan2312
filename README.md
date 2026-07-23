@@ -47,7 +47,7 @@
   <br>
   <img src="https://img.shields.io/badge/CAN_Bus-0088CC?style=for-the-badge&logo=can&logoColor=white" alt="CAN Bus" />
   <img src="https://img.shields.io/badge/Motor_Control-FF3300?style=for-the-badge&logo=autodesk&logoColor=white" alt="Motor Control" />
-  <img src="https://img.shields.io/badge/Hardware_Testing-4CAF50?style=for-the-badge&logo=testing&logoColor=white" alt="Hardware Testing" />
+  <img src="https://img.shields.io/badge/Hardware_Testing-4CAF50?style=for-the-badge&logo=testing&logoColor=white" alt="Hardware Design --> Prototype --> Production" />
 </details>
 
 ---
